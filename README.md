@@ -1,1 +1,1 @@
-# ClinicaMedica-demo
+# ClinicaDental-demo
